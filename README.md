@@ -17,7 +17,7 @@ or
 chmod +x downloadImages.py && ./downloadImages.py
 ```
 
-### Run the script
+### Classify the images
 ```bash
 python3 classify.py
 ```
