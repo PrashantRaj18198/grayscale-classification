@@ -1,6 +1,12 @@
 # grayscale-classification
 Download images from unsplash and check whether it is grayscale or not.
 
+### Run All
+```bash
+chmod +x runAll.sh
+./runAll.sh
+```
+
 ### Install the requirements
 
 Install python and pip
