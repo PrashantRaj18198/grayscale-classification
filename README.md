@@ -6,6 +6,10 @@ Download images from unsplash and check whether it is grayscale or not.
 chmod +x runAll.sh
 ./runAll.sh
 ```
+or
+```
+bash runAll.sh
+```
 
 ### Install the requirements
 
