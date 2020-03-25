@@ -2,6 +2,7 @@
 Download images from unsplash and check whether it is grayscale or not.
 
 ### Run All
+Install the requirements. Download images. Classify them.
 ```bash
 chmod +x runAll.sh
 ./runAll.sh
